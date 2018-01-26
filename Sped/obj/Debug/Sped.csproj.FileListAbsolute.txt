@@ -1,0 +1,6 @@
+c:\users\mmcguff\documents\visual studio 2013\Projects\Sped\Sped\bin\Debug\Sped.exe.config
+c:\users\mmcguff\documents\visual studio 2013\Projects\Sped\Sped\bin\Debug\Sped.exe
+c:\users\mmcguff\documents\visual studio 2013\Projects\Sped\Sped\bin\Debug\Sped.pdb
+c:\users\mmcguff\documents\visual studio 2013\Projects\Sped\Sped\obj\Debug\Sped.csprojResolveAssemblyReference.cache
+c:\users\mmcguff\documents\visual studio 2013\Projects\Sped\Sped\obj\Debug\Sped.exe
+c:\users\mmcguff\documents\visual studio 2013\Projects\Sped\Sped\obj\Debug\Sped.pdb
